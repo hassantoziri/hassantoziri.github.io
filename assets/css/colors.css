@@ -115,10 +115,10 @@ textarea:focus{
     border-bottom: 1px solid #efc615;
 }
 .bt-submit {
-    background: linear-gradient(135deg, #06831d,#0687b5, #06831d,#ccc,#0687b5);
+    background: linear-gradient(135deg, #06831d,#0687b5, #06831d,#efc615,#0687b5);
 }
 .bt-submit-right {
-    background: linear-gradient(135deg, #175C93,#0687b5, #06831d,#ccc,#0687b5);
+    background: linear-gradient(135deg, #175C93,#0687b5, #06831d,#efc615,#0687b5);
 }
 .fade-green {
     background: #1D5155;
